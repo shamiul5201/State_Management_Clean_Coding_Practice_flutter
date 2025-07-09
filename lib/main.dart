@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:state_management/config/routes/routes.dart';
 import 'package:state_management/config/routes/routes_name.dart';
-import 'package:state_management/views/splash/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());
